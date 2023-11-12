@@ -1,10 +1,10 @@
 # Systems Usability Test
 
-Hello 👋 Welcome to my Systems Usability Test
-I am a <strong>developer running a UX Design Research Case Study</strong> who wanted to add some personal branding touches to a form survey. 
-Unfortunately, like much of the inspiration I find for my other projects, there aren't very many platforms available that allow you to completely customize a form, so I decided to build one 👀
-In this project, I am learning about Google Spreadsheets API app integration to be able to see and analyse the results of the Systems Usability Scale.
-This project stands out, because it uses Web Standard Best Practices, allows for easy customability, and automates the results of running a Systems Usability Scale study ✨
+Hello 👋 Welcome to my Systems Usability Test <br>
+I am a <strong>developer running a UX Design Research Case <br> Study</strong> who wanted to add some personal branding touches to a form survey. <br>
+Unfortunately, like much of the inspiration I find for my other <br> projects, there aren't very many platforms available that allow <br> you to completely customize a form, so I decided to build one 👀  <br>
+In this project, I am learning about Google Spreadsheets API app <br> integration to be able to see and analyse the results of the Systems Usability Scale.
+This project stands out, because it uses Web Standard Best Practices, <br> allows for easy customability, and automates the results of <br> running a Systems Usability Scale study ✨
 
 ## Table of Contents
 

@@ -1,13 +1,13 @@
 <script>
   const numbers = [1, 2, 3, 4, 5];
 
-  const responses = {}
+  const responses = {};
 
-  //todo bind values 
+  //todo bind values
 
-  const updateResponses = (questionN, value){
-    responses[questionN] = value;
-  }
+  // const updateResponses = (questionN, value){
+  //   responses[questionN] = value;
+  // }
 
   const survey = {
     scale: [{ 1: "Strongly Disagree" }, { 5: "Strongly Agree" }],

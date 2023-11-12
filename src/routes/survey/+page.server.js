@@ -4,6 +4,6 @@ export const actions = {
     // TODO log the user in
     const response = event.request.body;
     console.log(response);
-    console.log(response.length);
+    // console.log(response.length);
   },
 };

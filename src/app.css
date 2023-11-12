@@ -3,6 +3,12 @@
 @tailwind utilities;
 
 @layer base {
+  a {
+    @apply bg-[#080004];
+    @apply text-white;
+    @apply px-4;
+    @apply py-2;
+  }
   h1 {
     @apply text-[2rem];
     @apply font-black;
